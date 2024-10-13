@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/83400697/202429157-a953dc00-f32d-4312-862a-1902a628b6ba.png)
 
 
-Join the [discord server](https://discord.gg/JdFsJPrayj) for more discussion: 
+
 
 # To-Do List Application
 
